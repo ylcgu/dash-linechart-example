@@ -7,19 +7,19 @@ import plotly.graph_objs as go
 
 myheading = "Baseball Stats from the 1950s"
 mytitle = "Batting Averages for 3 Hall of Famers"
-x_values = ['1954', '1955', '1956', '1957', '1958', '1959']
-y1_values = [345, 356, 345, 388, 328, 254]
-y2_values = [300, 306, 353, 365, 304, 285]
-y3_values = [280, 314, 328, 322, 326, 355]
+x_values = ['2009', '2010', '2011', '2012', '2013']
+y1_values = [-8, 11, 9, 4,2]
+y2_values = [-13, 5, 9, 0, 7]
+y3_values = [-17, 11, 8, 0, 1]
 color1 = '#fc9403'
 color2 = '#0307fc'
 color3 = '#9003fc'
-name1 = 'Ted Williams'
-name2 = 'Mickey Mantle'
-name3 = 'Hank Aaron'
-tabtitle = 'baseball'
-sourceurl = 'https://www.baseball-reference.com'
-githublink = 'https://github.com/austinlasseter/dash-linechart-example'
+name1 = 'United States'
+name2 = 'United Kingdoms'
+name3 = 'Candata'
+tabtitle = 'GDP source'
+sourceurl = 'https://wits.worldbank.org/CountryProfile'
+githublink = 'https://github.com/ylcgu'
 
 ########### Set up the chart
 
