@@ -5,8 +5,8 @@ import plotly.graph_objs as go
 
 ########### Define your variables ######
 
-myheading = "Baseball Stats from the 1950s"
-mytitle = "Batting Averages for 3 Hall of Famers"
+myheading = "GDP growth by countries"
+mytitle = "GDP annual growth rate by 3 countries"
 x_values = ['2009', '2010', '2011', '2012', '2013']
 y1_values = [-8, 11, 9, 4,2]
 y2_values = [-13, 5, 9, 0, 7]
